@@ -12,6 +12,6 @@ The mis config was so bad that there was no error, and small enough to be hard t
 
 3. The mistake, I was attempting to add a hostname environment variable to a log file and did it the wrong way.
 
-See src/main/resources/application.properties for the problem and the fix.
+See [application.properties](src/main/resources/application.properties) for the problem and the fix.
 
 
